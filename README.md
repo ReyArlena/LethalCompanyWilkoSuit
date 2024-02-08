@@ -20,4 +20,4 @@ If you wish to install this manually, place the `.dll` in you `BepInEx\plugins\m
 
 ## Issues
 
-If you have any issues, please submit them on the GitHub page.
+If you have any issues, please submit them on the [GitHub Issues](https://github.com/ReyArlena/LethalCompanyWilkoSuit/issues) page.
