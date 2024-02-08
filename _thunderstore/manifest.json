@@ -1,0 +1,9 @@
+{
+    "name": "WilkoSuit",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/ReyArlena/LethalCompanyWilkoSuit",
+    "description": "Adds a Wilko suit.",
+    "dependencies": [
+        "x753-More_Suits-1.4.1"
+    ]
+}
